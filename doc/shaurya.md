@@ -1,5 +1,6 @@
 # Shaurya 
-- **GitHub:** [example-user](https://github.com/example-user)
-- **About:** I'm a sample contributor file. Replace this with your own info!
-- **Skills:** Git, GitHub, Markdown
-- **Fun Fact:** I'm just a template — make your file way cooler than me! 😄
+- **GitHub:** [Shaurya Singh](https://github.com/Sha19112006)
+- **About:** I'm  trying to be creative engineer and passionate about ML, problem-solving, and  new technologes.I love learning by building real-world projects, experimenting, solving problems and trying new things and there working .
+- **Skills:** Java , c , html , Python , Git , GitHub , EDA , ML .
+- **Fun Fact:** 🧠 I overthink sometimes, but I also overthink solutions until I figure them out.
+                ☕ Coding + curiosity + random ideas = most of my productive days.
